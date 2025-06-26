@@ -1,16 +1,33 @@
 ## Hi there 👋
 
 <!--
-**JunseongLee98/JunseongLee98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
+     {
+        "💼status": "Student at University of Washington",
+        "🏠hometown": "Seoul, South Korea",
+        "🏫alma_matter": "University of Washington, BS in Informatics",
+        "💡highlights": [
+          "SDE at EZMS",
+          "Republic of Korea Air Force Interpreter"
+        ],
+        "✨hobbies": [
+          "Video gaming",
+          "Cooking",
+          "Cello",
+          "Guitar",
+          "Watching Movies"
+        ],
+        "📚favorite_books": [
+          "The Snowman - Jo Nesbo",
+          "The Man Who Mistook His Wife for a Hat - Oliver Sacks",
+          "Getting More - Stuart Diamond",
+        ],
+        "🎵favorite_music": "You Got to Be You - Cory Wong"
+        "🎬favorite_movie": [
+          "The Mask",
+          "Simpsons The Movie",
+          "The Matrix"
+        ]
+     }
+  
 -->
