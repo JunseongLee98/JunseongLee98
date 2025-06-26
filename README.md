@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
   
      {
         "💼status": "Student at University of Washington",
@@ -30,4 +30,3 @@
         ]
      }
   
--->
