@@ -68,7 +68,7 @@ An auction platform designed for students sharing the same campus.
   - Individual auction process management with Elixir's GenServer
   - Campus-specific marketplace functionality
 
-### 📈 Auto Investing Bot (Mar 2022) - Personal Project 
+### 📈 [Auto Investing Bot] (Mar 2022) - Personal Project 
 Automated investment bot deployed on AWS infrastructure.
 - **Tech Stack**: Python, AWS EC2
 - **Key Features**: Automated trading strategies and portfolio management
@@ -79,6 +79,13 @@ AI-Powered Calendar with task manager.
 - **Key Features**: 
   - Make AI to read task description and automatically distribute it into existing calendar
   - Manually add tasks and automate the distribution
+
+### 🏫 [Task-Momma](https://github.com/JunseongLee98/Capstone_Bridgers) (Mar 2026) - Graduation Project [Lead Developer / Backend Engineer]
+AI-Powered Calendar with task manager.
+- **Tech Stack**: Swift
+- **Key Features**: 
+  - Choose small portion of time in your day and let the app choose a task to replace doom scrolling
+  - Compete with friends about how many small minutes users have replaced. 
 
 
 ---
