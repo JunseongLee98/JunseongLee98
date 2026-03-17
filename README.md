@@ -73,7 +73,7 @@ Automated investment bot deployed on AWS infrastructure.
 - **Tech Stack**: Python, AWS EC2
 - **Key Features**: Automated trading strategies and portfolio management
 
-### 🏫 [Cadence](https://github.com/JunseongLee98/cadence) (Jan 2026) - Graduation Project [Lead Developer / Backend Engineer / AI Engineer]
+### 🏫 [Cadence](https://github.com/JunseongLee98/Capstone_Bridgers) (Jan 2026) - Graduation Project [Lead Developer / Backend Engineer / AI Engineer]
 AI-Powered Calendar with task manager.
 - **Tech Stack**: TypeScript
 - **Key Features**: 
