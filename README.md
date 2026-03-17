@@ -1,5 +1,9 @@
 # Hi, I'm Junseong Lee 👋
 
+<p align="center">
+  <img src="https://github.com/junseonglee98.png" alt="Junseong Lee" width="150" style="border-radius: 50%;" />
+</p>
+
 **Software Engineer | Informatics Student @ University of Washington**
 
 I'm a software engineer with experience in manufacturing systems, mobile development, and data frameworks. Currently pursuing my BS in Informatics at UW while working as a Teaching Assistant for Product Management.
@@ -60,33 +64,95 @@ I bring a meticulous approach to problem-solving, emphasizing root cause analysi
 
 ## 🎯 Featured Projects
 
-### 🏫 [CampusXchange](https://github.com/JunseongLee98/campus_xchange) (Apr 2025) - Personal Project
-An auction platform designed for students sharing the same campus.
-- **Tech Stack**: Elixir, Phoenix LiveView, GenServer
-- **Key Features**: 
-  - Real-time UI updates using Phoenix LiveView (no complex JavaScript needed)
-  - Individual auction process management with Elixir's GenServer
-  - Campus-specific marketplace functionality
+---
 
-### 📈 [Auto Investing Bot](https://github.com/JunseongLee98/TradeBot) (Mar 2022) - Personal Project 
-Automated investment bot deployed on AWS infrastructure.
-- **Tech Stack**: Python, AWS EC2
-- **Key Features**: Automated trading strategies and portfolio management
+### 🎓 [Cadence](https://github.com/JunseongLee98/Capstone_Bridgers) — Capstone Graduation Project *(Jan 2026)*
 
-### 🏫 [Cadence](https://github.com/JunseongLee98/Capstone_Bridgers) (Jan 2026) - Graduation Project [Lead Developer / Backend Engineer / AI Engineer]
-AI-Powered Calendar with task manager.
-- **Tech Stack**: TypeScript
-- **Key Features**: 
-  - Make AI to read task description and automatically distribute it into existing calendar
-  - Manually add tasks and automate the distribution
+**Role**: Lead Developer · Backend Engineer · AI Engineer
 
-### 🏫 [Task-Momma](https://github.com/ntran180/Task-App) (Mar 2026) - Graduation Project [Lead Developer / Backend Engineer]
-AI-Powered Calendar with task manager.
-- **Tech Stack**: Swift, Firebase
-- **Key Features**: 
-  - Choose small portion of time in your day and let the app choose a task to replace doom scrolling
-  - Compete with friends about how many small minutes users have replaced. 
+**Name of Project**: Cadence — AI-Powered Calendar & Task Manager
 
+**Goals**: Build an intelligent calendar application that reduces the cognitive overhead of task planning by using AI to automatically distribute tasks across a user's existing schedule.
+
+**Problem & Opportunity**: Students and professionals struggle to break down large tasks and fit them into their real-world calendars. Most to-do apps require manual scheduling, leading to unrealistic plans or procrastination. Cadence addresses this gap by automating the scheduling step entirely.
+
+**My Role**: As Lead Developer, I architected the overall system and drove both backend and AI integration. I designed the task ingestion pipeline, built the AI layer that reads task descriptions and maps them to open calendar slots, and coordinated the development workflow across the team.
+
+**Process & Solution**: I led the design of the TypeScript-based backend, integrating an LLM to parse free-form task descriptions and produce structured scheduling recommendations. The AI layer analyzes calendar availability and distributes tasks according to priority, duration estimates, and user preferences. I also implemented the manual task entry flow as a fallback and for user overrides.
+
+**Outcome & Next Steps**: Cadence successfully demonstrates AI-assisted scheduling end-to-end. Next steps include improving the AI's handling of recurring tasks, adding deadline-awareness, and conducting user testing with UW students.
+
+**Takeaways**: This project deepened my understanding of prompt engineering for structured output and the challenges of mapping fuzzy user intent onto concrete calendar data. Leading a capstone team also sharpened my skills in scoping work and keeping a project on track under academic deadlines.
+
+**URL**: [github.com/JunseongLee98/Capstone_Bridgers](https://github.com/JunseongLee98/Capstone_Bridgers)
+
+---
+
+### 📱 [Task-Momma](https://github.com/ntran180/Task-App) — Graduation Project *(Mar 2026)*
+
+**Role**: Lead Developer · Backend Engineer
+
+**Name of Project**: Task-Momma — Habit-Building Task App
+
+**Goals**: Help users reclaim small pockets of idle time throughout the day by replacing doom-scrolling with intentional, bite-sized tasks — and make it social and competitive.
+
+**Problem & Opportunity**: People waste dozens of small minutes each day on passive phone use but feel they "don't have time" for their goals. Task-Momma reframes this: instead of needing a free hour, users only need five minutes. The social competition layer adds accountability and motivation.
+
+**My Role**: As Lead Developer and Backend Engineer, I owned the server-side architecture and Firebase data modeling. I designed the database schema for users, tasks, and session tracking, built the backend logic for task assignment and time-slot matching, and integrated the competitive leaderboard system.
+
+**Process & Solution**: I architected the backend on Firebase, structuring real-time listeners so the app immediately reflects completed micro-sessions and updates friend leaderboards without polling. I worked closely with the frontend team to define the API contract between Swift UI components and Firebase, and implemented the core algorithm that selects an appropriate task based on the available time window.
+
+**Outcome & Next Steps**: The app is functional with core features—micro-task selection, session logging, and friend competition. Next steps include push notifications to prompt users during typical scroll sessions and an onboarding flow to help users populate their initial task list.
+
+**Takeaways**: Building on Swift and Firebase taught me the importance of designing for eventual consistency in real-time mobile apps. Leading the backend also reinforced how critical clear API contracts are when frontend and backend teams work in parallel.
+
+**URL**: [github.com/ntran180/Task-App](https://github.com/ntran180/Task-App)
+
+---
+
+### 🏫 [CampusXchange](https://github.com/JunseongLee98/campus_xchange) — Personal Project *(Apr 2025)*
+
+**Role**: Sole Developer
+
+**Name of Project**: CampusXchange — Campus Auction Marketplace
+
+**Goals**: Create a real-time auction platform exclusively for students on the same campus, making it easy to buy and sell used goods within a trusted community.
+
+**Problem & Opportunity**: General platforms like Facebook Marketplace or eBay lack campus-specific trust and convenience. Students often want to offload textbooks, furniture, or electronics quickly to people nearby. CampusXchange solves this with a campus-scoped, real-time bidding experience.
+
+**My Role**: I designed and built the entire application solo — from database schema and auction state management to the real-time UI layer.
+
+**Process & Solution**: I chose Elixir and Phoenix LiveView to handle real-time auction updates without writing complex JavaScript. Each auction is managed as an independent process using Elixir's GenServer, which handles bid validation, countdown timers, and state transitions concurrently and reliably. Phoenix LiveView pushes UI updates to all connected bidders instantly when a new bid arrives.
+
+**Outcome & Next Steps**: The platform supports concurrent auctions with live bid updates and automatic auction closing. Next steps include adding user authentication, a reputation/rating system, and campus email verification to enforce community membership.
+
+**Takeaways**: This project gave me hands-on experience with the actor model and OTP concurrency in Elixir. Managing auction state as isolated processes was a paradigm shift from traditional web development and showed me how powerful process-oriented architecture is for event-driven systems.
+
+**URL**: [github.com/JunseongLee98/campus_xchange](https://github.com/JunseongLee98/campus_xchange)
+
+> ⚠️ *Note: Please verify this link is public — the previous URL was reported as broken.*
+
+---
+
+### 📈 [Auto Investing Bot](https://github.com/JunseongLee98/TradeBot) — Personal Project *(Mar 2022)*
+
+**Role**: Sole Developer
+
+**Name of Project**: Auto Investing Bot — Automated Trading System
+
+**Goals**: Build an automated trading bot that executes investment strategies around the clock without requiring manual intervention, deployed on cloud infrastructure for reliability.
+
+**Problem & Opportunity**: Manual trading requires constant monitoring and is prone to emotional decision-making. Automated bots can follow rules consistently and act on signals faster than any human. This project was an opportunity to apply Python programming to a real financial domain and explore cloud deployment.
+
+**My Role**: I designed, built, and deployed the entire system independently — including the trading strategy logic, AWS infrastructure setup, and ongoing monitoring.
+
+**Process & Solution**: I implemented the bot in Python, scripting trading strategies and portfolio management rules that run on a schedule. The bot was deployed on an AWS EC2 instance to ensure it runs continuously. I configured the instance for reliability and set up logging to track trades and performance over time.
+
+**Outcome & Next Steps**: The bot successfully executed automated trades per its configured strategy. Next steps would include implementing backtesting against historical data, adding more sophisticated strategy signals, and building a simple dashboard to visualize portfolio performance.
+
+**Takeaways**: This project was my first experience with cloud deployment and taught me practical AWS skills (EC2 setup, SSH, process management). It also gave me a deeper appreciation for the importance of rigorous testing before deploying anything that handles real money.
+
+**URL**: [github.com/JunseongLee98/TradeBot](https://github.com/JunseongLee98/TradeBot)
 
 ---
 
