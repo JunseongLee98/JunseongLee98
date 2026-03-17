@@ -60,7 +60,7 @@ I bring a meticulous approach to problem-solving, emphasizing root cause analysi
 
 ## 🎯 Featured Projects
 
-### 🏫 [CampusXchange](https://github.com/junseonglee98/campusxchange) (Apr 2025)
+### 🏫 [CampusXchange](https://github.com/JunseongLee98/campus_xchange) (Apr 2025)
 An auction platform designed for students sharing the same campus.
 - **Tech Stack**: Elixir, Phoenix LiveView, GenServer
 - **Key Features**: 
@@ -72,6 +72,20 @@ An auction platform designed for students sharing the same campus.
 Automated investment bot deployed on AWS infrastructure.
 - **Tech Stack**: Python, AWS EC2
 - **Key Features**: Automated trading strategies and portfolio management
+
+### 🏫 [Cadence](https://github.com/JunseongLee98/campus_xchange) (Apr 2025)
+An auction platform designed for students sharing the same campus.
+- **Tech Stack**: Elixir, Phoenix LiveView, GenServer
+- **Key Features**: 
+  - Real-time UI updates using Phoenix LiveView (no complex JavaScript needed)
+  - Individual auction process management with Elixir's GenServer
+  - Campus-specific marketplace functionality
+
+### 📈 Auto Investing Bot (Mar 2022)
+Automated investment bot deployed on AWS infrastructure.
+- **Tech Stack**: Python, AWS EC2
+- **Key Features**: Automated trading strategies and portfolio management
+
 
 ---
 
