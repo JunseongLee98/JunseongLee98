@@ -80,9 +80,9 @@ AI-Powered Calendar with task manager.
   - Make AI to read task description and automatically distribute it into existing calendar
   - Manually add tasks and automate the distribution
 
-### 🏫 [Task-Momma](https://github.com/JunseongLee98/Capstone_Bridgers) (Mar 2026) - Graduation Project [Lead Developer / Backend Engineer]
+### 🏫 [Task-Momma](https://github.com/ntran180/Task-App) (Mar 2026) - Graduation Project [Lead Developer / Backend Engineer]
 AI-Powered Calendar with task manager.
-- **Tech Stack**: Swift
+- **Tech Stack**: Swift, Firebase
 - **Key Features**: 
   - Choose small portion of time in your day and let the app choose a task to replace doom scrolling
   - Compete with friends about how many small minutes users have replaced. 
