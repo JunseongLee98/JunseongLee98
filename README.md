@@ -68,7 +68,7 @@ An auction platform designed for students sharing the same campus.
   - Individual auction process management with Elixir's GenServer
   - Campus-specific marketplace functionality
 
-### 📈 [Auto Investing Bot] (Mar 2022) - Personal Project 
+### 📈 [Auto Investing Bot](https://github.com/JunseongLee98/TradeBot) (Mar 2022) - Personal Project 
 Automated investment bot deployed on AWS infrastructure.
 - **Tech Stack**: Python, AWS EC2
 - **Key Features**: Automated trading strategies and portfolio management
