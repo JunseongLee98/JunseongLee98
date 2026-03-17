@@ -130,7 +130,6 @@ I bring a meticulous approach to problem-solving, emphasizing root cause analysi
 
 **URL**: [github.com/JunseongLee98/campus_xchange](https://github.com/JunseongLee98/campus_xchange)
 
-> ⚠️ *Note: Please verify this link is public — the previous URL was reported as broken.*
 
 ---
 
@@ -183,7 +182,7 @@ When I'm not coding or teaching, you'll find me:
 
 I'm always open to discussing software engineering, product management, or potential collaborations.
 
-- **Email**: [wnstjd98@uw.edu](mailto:wnstjd98@uw.edu)
+- **Email**: [dlwnstjd98@gmail.com](mailto:dlwnstjd98@gmail.com)
 - **Phone**: 206-535-0596
 - **Location**: Seattle, WA | Seoul, South Korea
 
