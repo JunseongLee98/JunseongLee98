@@ -84,7 +84,7 @@ I bring a meticulous approach to problem-solving, emphasizing root cause analysi
 
 **Takeaways**: This project deepened my understanding of prompt engineering for structured output and the challenges of mapping fuzzy user intent onto concrete calendar data. Leading a capstone team also sharpened my skills in scoping work and keeping a project on track under academic deadlines.
 
-**URL**: [github.com/JunseongLee98/Capstone_Bridgers](https://github.com/JunseongLee98/Capstone_Bridgers)
+**URL**: [www.bridgerscadence.com](https://bridgerscadence.com/)
 
 ---
 
